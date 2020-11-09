@@ -1,6 +1,6 @@
 <template>
   <div>
-    <nav class="navbar navbar-expand-lg navbar-light bg-info">
+    <nav class="navbar navbar-expand-lg navbar-light bg-warning">
       <a class="navbar-brand- mr-auto ">My_Maize Movie </a>
       <button
         class="navbar-toggler"
